@@ -16,6 +16,8 @@ public class Orders {
     private Double deliveryPrice;
     @Column(columnDefinition = "decimal(10,2)")
     private Double totalPrice;
+    @Column(columnDefinition = "decimal(10,2)")
+    private Double preciocli;
     private String streetAddress;
     private String status;
     @Column(name = "createdAt")
@@ -54,6 +56,12 @@ public class Orders {
     }
     public void setTotalPrice(Double totalPrice) {
         this.totalPrice = totalPrice;
+    }
+    public Double getPreciocli() {
+        return preciocli;
+    }
+    public void setPreciocli(Double preciocli) {
+        this.preciocli = preciocli;
     }
     public String getStreetAddress() {
         return streetAddress;
