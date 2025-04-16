@@ -22,6 +22,7 @@ public class QuotationDetails {
   private Quotation quotation;
   @Column(name = "createdAt")
   private java.util.Date createdAt;
+  
   public QuotationDetails() { }
   public Long getQuotationdetailsId() { return quotationdetailsId; }
   public void setQuotationdetailsId(Long quotationdetailsId) { this.quotationdetailsId = quotationdetailsId; }
