@@ -1,80 +1,108 @@
-C:\Users\chris\OneDrive\Escritorio\TP 2024-I\Elsaval-Backend\portal-examenes-backend-master\src\main\java\com\sistema\examenes\repositorios\DepartmentsRepository.java
-C:\Users\chris\OneDrive\Escritorio\TP 2024-I\Elsaval-Backend\portal-examenes-backend-master\src\main\java\com\sistema\examenes\servicios\EstadoService.java
-C:\Users\chris\OneDrive\Escritorio\TP 2024-I\Elsaval-Backend\portal-examenes-backend-master\src\main\java\com\sistema\examenes\controladores\AddressesController.java
-C:\Users\chris\OneDrive\Escritorio\TP 2024-I\Elsaval-Backend\portal-examenes-backend-master\src\main\java\com\sistema\examenes\controladores\OrdersController.java
-C:\Users\chris\OneDrive\Escritorio\TP 2024-I\Elsaval-Backend\portal-examenes-backend-master\src\main\java\com\sistema\examenes\servicios\impl\UsuarioServiceImpl.java
-C:\Users\chris\OneDrive\Escritorio\TP 2024-I\Elsaval-Backend\portal-examenes-backend-master\src\main\java\com\sistema\examenes\servicios\InventarioService.java
-C:\Users\chris\OneDrive\Escritorio\TP 2024-I\Elsaval-Backend\portal-examenes-backend-master\src\main\java\com\sistema\examenes\modelo\Rol.java
-C:\Users\chris\OneDrive\Escritorio\TP 2024-I\Elsaval-Backend\portal-examenes-backend-master\src\main\java\com\sistema\examenes\servicios\ProvincesService.java
-C:\Users\chris\OneDrive\Escritorio\TP 2024-I\Elsaval-Backend\portal-examenes-backend-master\src\main\java\com\sistema\examenes\modelo\Addresses.java
-C:\Users\chris\OneDrive\Escritorio\TP 2024-I\Elsaval-Backend\portal-examenes-backend-master\src\main\java\com\sistema\examenes\servicios\impl\DistrictsServiceImpl.java
-C:\Users\chris\OneDrive\Escritorio\TP 2024-I\Elsaval-Backend\portal-examenes-backend-master\src\main\java\com\sistema\examenes\controladores\DepartmentsController.java
-C:\Users\chris\OneDrive\Escritorio\TP 2024-I\Elsaval-Backend\portal-examenes-backend-master\src\main\java\com\sistema\examenes\repositorios\UsuarioRepository.java
-C:\Users\chris\OneDrive\Escritorio\TP 2024-I\Elsaval-Backend\portal-examenes-backend-master\src\main\java\com\sistema\examenes\modelo\JwtResponse.java
-C:\Users\chris\OneDrive\Escritorio\TP 2024-I\Elsaval-Backend\portal-examenes-backend-master\src\main\java\com\sistema\examenes\servicios\DistrictsService.java
-C:\Users\chris\OneDrive\Escritorio\TP 2024-I\Elsaval-Backend\portal-examenes-backend-master\src\main\java\com\sistema\examenes\controladores\ProductoController.java
-C:\Users\chris\OneDrive\Escritorio\TP 2024-I\Elsaval-Backend\portal-examenes-backend-master\src\main\java\com\sistema\examenes\modelo\Authority.java
-C:\Users\chris\OneDrive\Escritorio\TP 2024-I\Elsaval-Backend\portal-examenes-backend-master\src\main\java\com\sistema\examenes\servicios\CategoriaService.java
-C:\Users\chris\OneDrive\Escritorio\TP 2024-I\Elsaval-Backend\portal-examenes-backend-master\src\main\java\com\sistema\examenes\configuraciones\JwtAuthenticationEntryPoint.java
-C:\Users\chris\OneDrive\Escritorio\TP 2024-I\Elsaval-Backend\portal-examenes-backend-master\src\main\java\com\sistema\examenes\exepciones\UsuarioFounException.java
-C:\Users\chris\OneDrive\Escritorio\TP 2024-I\Elsaval-Backend\portal-examenes-backend-master\src\main\java\com\sistema\examenes\modelo\Districts.java
-C:\Users\chris\OneDrive\Escritorio\TP 2024-I\Elsaval-Backend\portal-examenes-backend-master\src\main\java\com\sistema\examenes\repositorios\CatalogoRepository.java
-C:\Users\chris\OneDrive\Escritorio\TP 2024-I\Elsaval-Backend\portal-examenes-backend-master\src\main\java\com\sistema\examenes\servicios\ImagenService.java
-C:\Users\chris\OneDrive\Escritorio\TP 2024-I\Elsaval-Backend\portal-examenes-backend-master\src\main\java\com\sistema\examenes\controladores\OrdersDetailsController.java
-C:\Users\chris\OneDrive\Escritorio\TP 2024-I\Elsaval-Backend\portal-examenes-backend-master\src\main\java\com\sistema\examenes\servicios\impl\OrdersServiceImpl.java
-C:\Users\chris\OneDrive\Escritorio\TP 2024-I\Elsaval-Backend\portal-examenes-backend-master\src\main\java\com\sistema\examenes\servicios\impl\ProductoServiceImpl.java
-C:\Users\chris\OneDrive\Escritorio\TP 2024-I\Elsaval-Backend\portal-examenes-backend-master\src\main\java\com\sistema\examenes\controladores\AuthenticationController.java
-C:\Users\chris\OneDrive\Escritorio\TP 2024-I\Elsaval-Backend\portal-examenes-backend-master\src\main\java\com\sistema\examenes\servicios\OrdersService.java
-C:\Users\chris\OneDrive\Escritorio\TP 2024-I\Elsaval-Backend\portal-examenes-backend-master\src\main\java\com\sistema\examenes\controladores\EstadoController.java
-C:\Users\chris\OneDrive\Escritorio\TP 2024-I\Elsaval-Backend\portal-examenes-backend-master\src\main\java\com\sistema\examenes\configuraciones\JwtAuthenticationFilter.java
-C:\Users\chris\OneDrive\Escritorio\TP 2024-I\Elsaval-Backend\portal-examenes-backend-master\src\main\java\com\sistema\examenes\modelo\JwtRequest.java
-C:\Users\chris\OneDrive\Escritorio\TP 2024-I\Elsaval-Backend\portal-examenes-backend-master\src\main\java\com\sistema\examenes\controladores\CategoriaController.java
-C:\Users\chris\OneDrive\Escritorio\TP 2024-I\Elsaval-Backend\portal-examenes-backend-master\src\main\java\com\sistema\examenes\servicios\UsuarioService.java
-C:\Users\chris\OneDrive\Escritorio\TP 2024-I\Elsaval-Backend\portal-examenes-backend-master\src\main\java\com\sistema\examenes\modelo\Producto.java
-C:\Users\chris\OneDrive\Escritorio\TP 2024-I\Elsaval-Backend\portal-examenes-backend-master\src\main\java\com\sistema\examenes\servicios\ProductoService.java
-C:\Users\chris\OneDrive\Escritorio\TP 2024-I\Elsaval-Backend\portal-examenes-backend-master\src\main\java\com\sistema\examenes\servicios\impl\EstadoServiceImpl.java
-C:\Users\chris\OneDrive\Escritorio\TP 2024-I\Elsaval-Backend\portal-examenes-backend-master\src\main\java\com\sistema\examenes\modelo\Categoria.java
-C:\Users\chris\OneDrive\Escritorio\TP 2024-I\Elsaval-Backend\portal-examenes-backend-master\src\main\java\com\sistema\examenes\modelo\OrdersDetails.java
-C:\Users\chris\OneDrive\Escritorio\TP 2024-I\Elsaval-Backend\portal-examenes-backend-master\src\main\java\com\sistema\examenes\modelo\Inventario.java
-C:\Users\chris\OneDrive\Escritorio\TP 2024-I\Elsaval-Backend\portal-examenes-backend-master\src\main\java\com\sistema\examenes\configuraciones\MySecurityConfig.java
-C:\Users\chris\OneDrive\Escritorio\TP 2024-I\Elsaval-Backend\portal-examenes-backend-master\src\main\java\com\sistema\examenes\repositorios\DistrictsRepository.java
-C:\Users\chris\OneDrive\Escritorio\TP 2024-I\Elsaval-Backend\portal-examenes-backend-master\src\main\java\com\sistema\examenes\controladores\CatalogoController.java
-C:\Users\chris\OneDrive\Escritorio\TP 2024-I\Elsaval-Backend\portal-examenes-backend-master\src\main\java\com\sistema\examenes\modelo\Estado.java
-C:\Users\chris\OneDrive\Escritorio\TP 2024-I\Elsaval-Backend\portal-examenes-backend-master\src\main\java\com\sistema\examenes\repositorios\OrdersDetailsRepository.java
-C:\Users\chris\OneDrive\Escritorio\TP 2024-I\Elsaval-Backend\portal-examenes-backend-master\src\main\java\com\sistema\examenes\servicios\impl\ImagenServiceImpl.java
-C:\Users\chris\OneDrive\Escritorio\TP 2024-I\Elsaval-Backend\portal-examenes-backend-master\src\main\java\com\sistema\examenes\controladores\ImagenController.java
-C:\Users\chris\OneDrive\Escritorio\TP 2024-I\Elsaval-Backend\portal-examenes-backend-master\src\main\java\com\sistema\examenes\controladores\ProvincesController.java
-C:\Users\chris\OneDrive\Escritorio\TP 2024-I\Elsaval-Backend\portal-examenes-backend-master\src\main\java\com\sistema\examenes\repositorios\AddressesRepository.java
-C:\Users\chris\OneDrive\Escritorio\TP 2024-I\Elsaval-Backend\portal-examenes-backend-master\src\main\java\com\sistema\examenes\modelo\UsuarioRol.java
-C:\Users\chris\OneDrive\Escritorio\TP 2024-I\Elsaval-Backend\portal-examenes-backend-master\src\main\java\com\sistema\examenes\controladores\DistrictsController.java
-C:\Users\chris\OneDrive\Escritorio\TP 2024-I\Elsaval-Backend\portal-examenes-backend-master\src\main\java\com\sistema\examenes\servicios\impl\CatalogoServiceImpl.java
-C:\Users\chris\OneDrive\Escritorio\TP 2024-I\Elsaval-Backend\portal-examenes-backend-master\src\main\java\com\sistema\examenes\servicios\impl\DepartmentsServiceImpl.java
-C:\Users\chris\OneDrive\Escritorio\TP 2024-I\Elsaval-Backend\portal-examenes-backend-master\src\main\java\com\sistema\examenes\repositorios\EstadoRepository.java
-C:\Users\chris\OneDrive\Escritorio\TP 2024-I\Elsaval-Backend\portal-examenes-backend-master\src\main\java\com\sistema\examenes\repositorios\OrdersRepository.java
-C:\Users\chris\OneDrive\Escritorio\TP 2024-I\Elsaval-Backend\portal-examenes-backend-master\src\main\java\com\sistema\examenes\exepciones\UsuarioNotFoundException.java
-C:\Users\chris\OneDrive\Escritorio\TP 2024-I\Elsaval-Backend\portal-examenes-backend-master\src\main\java\com\sistema\examenes\servicios\DepartmentsService.java
-C:\Users\chris\OneDrive\Escritorio\TP 2024-I\Elsaval-Backend\portal-examenes-backend-master\src\main\java\com\sistema\examenes\servicios\impl\ProvincesServiceImpl.java
-C:\Users\chris\OneDrive\Escritorio\TP 2024-I\Elsaval-Backend\portal-examenes-backend-master\src\main\java\com\sistema\examenes\modelo\Provinces.java
-C:\Users\chris\OneDrive\Escritorio\TP 2024-I\Elsaval-Backend\portal-examenes-backend-master\src\main\java\com\sistema\examenes\servicios\impl\UserDetailsServiceImpl.java
-C:\Users\chris\OneDrive\Escritorio\TP 2024-I\Elsaval-Backend\portal-examenes-backend-master\src\main\java\com\sistema\examenes\modelo\Usuario.java
-C:\Users\chris\OneDrive\Escritorio\TP 2024-I\Elsaval-Backend\portal-examenes-backend-master\src\main\java\com\sistema\examenes\servicios\impl\CategoriaServiceImpl.java
-C:\Users\chris\OneDrive\Escritorio\TP 2024-I\Elsaval-Backend\portal-examenes-backend-master\src\main\java\com\sistema\examenes\modelo\Orders.java
-C:\Users\chris\OneDrive\Escritorio\TP 2024-I\Elsaval-Backend\portal-examenes-backend-master\src\main\java\com\sistema\examenes\repositorios\CategoriaRepository.java
-C:\Users\chris\OneDrive\Escritorio\TP 2024-I\Elsaval-Backend\portal-examenes-backend-master\src\main\java\com\sistema\examenes\servicios\AddressesService.java
-C:\Users\chris\OneDrive\Escritorio\TP 2024-I\Elsaval-Backend\portal-examenes-backend-master\src\main\java\com\sistema\examenes\servicios\OrdersDetailsService.java
-C:\Users\chris\OneDrive\Escritorio\TP 2024-I\Elsaval-Backend\portal-examenes-backend-master\src\main\java\com\sistema\examenes\repositorios\InventarioRepository.java
-C:\Users\chris\OneDrive\Escritorio\TP 2024-I\Elsaval-Backend\portal-examenes-backend-master\src\main\java\com\sistema\examenes\repositorios\ProductoRepository.java
-C:\Users\chris\OneDrive\Escritorio\TP 2024-I\Elsaval-Backend\portal-examenes-backend-master\src\main\java\com\sistema\examenes\modelo\Imagen.java
-C:\Users\chris\OneDrive\Escritorio\TP 2024-I\Elsaval-Backend\portal-examenes-backend-master\src\main\java\com\sistema\examenes\repositorios\ImagenRepository.java
-C:\Users\chris\OneDrive\Escritorio\TP 2024-I\Elsaval-Backend\portal-examenes-backend-master\src\main\java\com\sistema\examenes\modelo\Departments.java
-C:\Users\chris\OneDrive\Escritorio\TP 2024-I\Elsaval-Backend\portal-examenes-backend-master\src\main\java\com\sistema\examenes\configuraciones\JwtUtils.java
-C:\Users\chris\OneDrive\Escritorio\TP 2024-I\Elsaval-Backend\portal-examenes-backend-master\src\main\java\com\sistema\examenes\servicios\CatalogoService.java
-C:\Users\chris\OneDrive\Escritorio\TP 2024-I\Elsaval-Backend\portal-examenes-backend-master\src\main\java\com\sistema\examenes\servicios\impl\AddressesServiceImpl.java
-C:\Users\chris\OneDrive\Escritorio\TP 2024-I\Elsaval-Backend\portal-examenes-backend-master\src\main\java\com\sistema\examenes\controladores\UsuarioController.java
-C:\Users\chris\OneDrive\Escritorio\TP 2024-I\Elsaval-Backend\portal-examenes-backend-master\src\main\java\com\sistema\examenes\repositorios\ProvincesRepository.java
-C:\Users\chris\OneDrive\Escritorio\TP 2024-I\Elsaval-Backend\portal-examenes-backend-master\src\main\java\com\sistema\examenes\servicios\impl\OrdersDetailsServiceImpl.java
-C:\Users\chris\OneDrive\Escritorio\TP 2024-I\Elsaval-Backend\portal-examenes-backend-master\src\main\java\com\sistema\examenes\repositorios\RolRepository.java
-C:\Users\chris\OneDrive\Escritorio\TP 2024-I\Elsaval-Backend\portal-examenes-backend-master\src\main\java\com\sistema\examenes\servicios\impl\InventarioServiceImpl.java
-C:\Users\chris\OneDrive\Escritorio\TP 2024-I\Elsaval-Backend\portal-examenes-backend-master\src\main\java\com\sistema\examenes\controladores\InventarioController.java
-C:\Users\chris\OneDrive\Escritorio\TP 2024-I\Elsaval-Backend\portal-examenes-backend-master\src\main\java\com\sistema\examenes\ElsavalBackendApplication.java
-C:\Users\chris\OneDrive\Escritorio\TP 2024-I\Elsaval-Backend\portal-examenes-backend-master\src\main\java\com\sistema\examenes\modelo\Catalogo.java
+/Users/gastonrodriguez/Desktop/carpeta sin título/apc-backend/src/main/java/com/apcemedicom/servicios/InventarioService.java
+/Users/gastonrodriguez/Desktop/carpeta sin título/apc-backend/src/main/java/com/apcemedicom/configuraciones/JwtAuthenticationEntryPoint.java
+/Users/gastonrodriguez/Desktop/carpeta sin título/apc-backend/src/main/java/com/apcemedicom/servicios/impl/OrdersDetailsServiceImpl.java
+/Users/gastonrodriguez/Desktop/carpeta sin título/apc-backend/src/main/java/com/apcemedicom/modelo/Almacen.java
+/Users/gastonrodriguez/Desktop/carpeta sin título/apc-backend/src/main/java/com/apcemedicom/servicios/impl/EstadoServiceImpl.java
+/Users/gastonrodriguez/Desktop/carpeta sin título/apc-backend/src/main/java/com/apcemedicom/servicios/ProvincesService.java
+/Users/gastonrodriguez/Desktop/carpeta sin título/apc-backend/src/main/java/com/apcemedicom/repositorios/ServicioRepository.java
+/Users/gastonrodriguez/Desktop/carpeta sin título/apc-backend/src/main/java/com/apcemedicom/repositorios/InventarioRepository.java
+/Users/gastonrodriguez/Desktop/carpeta sin título/apc-backend/src/main/java/com/apcemedicom/servicios/impl/AlmacenServiceImpl.java
+/Users/gastonrodriguez/Desktop/carpeta sin título/apc-backend/src/main/java/com/apcemedicom/servicios/impl/UserDetailsServiceImpl.java
+/Users/gastonrodriguez/Desktop/carpeta sin título/apc-backend/src/main/java/com/apcemedicom/modelo/Cliente.java
+/Users/gastonrodriguez/Desktop/carpeta sin título/apc-backend/src/main/java/com/apcemedicom/servicios/impl/DistrictsServiceImpl.java
+/Users/gastonrodriguez/Desktop/carpeta sin título/apc-backend/src/main/java/com/apcemedicom/servicios/ClienteService.java
+/Users/gastonrodriguez/Desktop/carpeta sin título/apc-backend/src/main/java/com/apcemedicom/servicios/ImagenService.java
+/Users/gastonrodriguez/Desktop/carpeta sin título/apc-backend/src/main/java/com/apcemedicom/servicios/impl/UsuarioServiceImpl.java
+/Users/gastonrodriguez/Desktop/carpeta sin título/apc-backend/src/main/java/com/apcemedicom/servicios/ProveedorService.java
+/Users/gastonrodriguez/Desktop/carpeta sin título/apc-backend/src/main/java/com/apcemedicom/servicios/OrdersDetailsService.java
+/Users/gastonrodriguez/Desktop/carpeta sin título/apc-backend/src/main/java/com/apcemedicom/modelo/Provinces.java
+/Users/gastonrodriguez/Desktop/carpeta sin título/apc-backend/src/main/java/com/apcemedicom/configuraciones/MySecurityConfig.java
+/Users/gastonrodriguez/Desktop/carpeta sin título/apc-backend/src/main/java/com/apcemedicom/servicios/impl/AddressesServiceImpl.java
+/Users/gastonrodriguez/Desktop/carpeta sin título/apc-backend/src/main/java/com/apcemedicom/servicios/OrdersService.java
+/Users/gastonrodriguez/Desktop/carpeta sin título/apc-backend/src/main/java/com/apcemedicom/servicios/ProductoService.java
+/Users/gastonrodriguez/Desktop/carpeta sin título/apc-backend/src/main/java/com/apcemedicom/repositorios/EstadoRepository.java
+/Users/gastonrodriguez/Desktop/carpeta sin título/apc-backend/src/main/java/com/apcemedicom/repositorios/ProductoRepository.java
+/Users/gastonrodriguez/Desktop/carpeta sin título/apc-backend/src/main/java/com/apcemedicom/repositorios/ClienteRepository.java
+/Users/gastonrodriguez/Desktop/carpeta sin título/apc-backend/src/main/java/com/apcemedicom/servicios/impl/ImagenServiceImpl.java
+/Users/gastonrodriguez/Desktop/carpeta sin título/apc-backend/src/main/java/com/apcemedicom/repositorios/OrdersDetailsRepository.java
+/Users/gastonrodriguez/Desktop/carpeta sin título/apc-backend/src/main/java/com/apcemedicom/modelo/UsuarioRol.java
+/Users/gastonrodriguez/Desktop/carpeta sin título/apc-backend/src/main/java/com/apcemedicom/servicios/impl/OrdersServiceImpl.java
+/Users/gastonrodriguez/Desktop/carpeta sin título/apc-backend/src/main/java/com/apcemedicom/controladores/AuthenticationController.java
+/Users/gastonrodriguez/Desktop/carpeta sin título/apc-backend/src/main/java/com/apcemedicom/servicios/ServicioService.java
+/Users/gastonrodriguez/Desktop/carpeta sin título/apc-backend/src/main/java/com/apcemedicom/repositorios/OrdersRepository.java
+/Users/gastonrodriguez/Desktop/carpeta sin título/apc-backend/src/main/java/com/apcemedicom/servicios/impl/ServicioServiceImpl.java
+/Users/gastonrodriguez/Desktop/carpeta sin título/apc-backend/src/main/java/com/apcemedicom/controladores/ProductoController.java
+/Users/gastonrodriguez/Desktop/carpeta sin título/apc-backend/src/main/java/com/apcemedicom/configuraciones/JwtAuthenticationFilter.java
+/Users/gastonrodriguez/Desktop/carpeta sin título/apc-backend/src/main/java/com/apcemedicom/controladores/AlmacenController.java
+/Users/gastonrodriguez/Desktop/carpeta sin título/apc-backend/src/main/java/com/apcemedicom/controladores/EstadoController.java
+/Users/gastonrodriguez/Desktop/carpeta sin título/apc-backend/src/main/java/com/apcemedicom/servicios/impl/SolicitudServiceImpl.java
+/Users/gastonrodriguez/Desktop/carpeta sin título/apc-backend/src/main/java/com/apcemedicom/controladores/ProvincesController.java
+/Users/gastonrodriguez/Desktop/carpeta sin título/apc-backend/src/main/java/com/apcemedicom/servicios/impl/InventarioServiceImpl.java
+/Users/gastonrodriguez/Desktop/carpeta sin título/apc-backend/src/main/java/com/apcemedicom/controladores/DistrictsController.java
+/Users/gastonrodriguez/Desktop/carpeta sin título/apc-backend/src/main/java/com/apcemedicom/modelo/Categoria.java
+/Users/gastonrodriguez/Desktop/carpeta sin título/apc-backend/src/main/java/com/apcemedicom/repositorios/RolRepository.java
+/Users/gastonrodriguez/Desktop/carpeta sin título/apc-backend/src/main/java/com/apcemedicom/servicios/UsuarioService.java
+/Users/gastonrodriguez/Desktop/carpeta sin título/apc-backend/src/main/java/com/apcemedicom/controladores/UsuarioController.java
+/Users/gastonrodriguez/Desktop/carpeta sin título/apc-backend/src/main/java/com/apcemedicom/modelo/Authority.java
+/Users/gastonrodriguez/Desktop/carpeta sin título/apc-backend/src/main/java/com/apcemedicom/modelo/Usuario.java
+/Users/gastonrodriguez/Desktop/carpeta sin título/apc-backend/src/main/java/com/apcemedicom/modelo/Solicitud.java
+/Users/gastonrodriguez/Desktop/carpeta sin título/apc-backend/src/main/java/com/apcemedicom/controladores/ImagenController.java
+/Users/gastonrodriguez/Desktop/carpeta sin título/apc-backend/src/main/java/com/apcemedicom/configuraciones/MercadoPago.java
+/Users/gastonrodriguez/Desktop/carpeta sin título/apc-backend/src/main/java/com/apcemedicom/controladores/OrdersDetailsController.java
+/Users/gastonrodriguez/Desktop/carpeta sin título/apc-backend/src/main/java/com/apcemedicom/servicios/impl/PaymentService.java
+/Users/gastonrodriguez/Desktop/carpeta sin título/apc-backend/src/main/java/com/apcemedicom/repositorios/CategoriaRepository.java
+/Users/gastonrodriguez/Desktop/carpeta sin título/apc-backend/src/main/java/com/apcemedicom/servicios/DistrictsService.java
+/Users/gastonrodriguez/Desktop/carpeta sin título/apc-backend/src/main/java/com/apcemedicom/repositorios/CatalogoRepository.java
+/Users/gastonrodriguez/Desktop/carpeta sin título/apc-backend/src/main/java/com/apcemedicom/controladores/PaymentController.java
+/Users/gastonrodriguez/Desktop/carpeta sin título/apc-backend/src/main/java/com/apcemedicom/ApcBackendApplication.java
+/Users/gastonrodriguez/Desktop/carpeta sin título/apc-backend/src/main/java/com/apcemedicom/modelo/Imagen.java
+/Users/gastonrodriguez/Desktop/carpeta sin título/apc-backend/src/main/java/com/apcemedicom/modelo/JwtResponse.java
+/Users/gastonrodriguez/Desktop/carpeta sin título/apc-backend/src/main/java/com/apcemedicom/modelo/Producto.java
+/Users/gastonrodriguez/Desktop/carpeta sin título/apc-backend/src/main/java/com/apcemedicom/configuraciones/JwtUtils.java
+/Users/gastonrodriguez/Desktop/carpeta sin título/apc-backend/src/main/java/com/apcemedicom/servicios/impl/ClienteServiceImpl.java
+/Users/gastonrodriguez/Desktop/carpeta sin título/apc-backend/src/main/java/com/apcemedicom/repositorios/AddressesRepository.java
+/Users/gastonrodriguez/Desktop/carpeta sin título/apc-backend/src/main/java/com/apcemedicom/controladores/CatalogoController.java
+/Users/gastonrodriguez/Desktop/carpeta sin título/apc-backend/src/main/java/com/apcemedicom/servicios/SolicitudService.java
+/Users/gastonrodriguez/Desktop/carpeta sin título/apc-backend/src/main/java/com/apcemedicom/modelo/Servicio.java
+/Users/gastonrodriguez/Desktop/carpeta sin título/apc-backend/src/main/java/com/apcemedicom/repositorios/ProveedorRepository.java
+/Users/gastonrodriguez/Desktop/carpeta sin título/apc-backend/src/main/java/com/apcemedicom/servicios/impl/CatalogoServiceImpl.java
+/Users/gastonrodriguez/Desktop/carpeta sin título/apc-backend/src/main/java/com/apcemedicom/controladores/SolicitudController.java
+/Users/gastonrodriguez/Desktop/carpeta sin título/apc-backend/src/main/java/com/apcemedicom/controladores/AddressesController.java
+/Users/gastonrodriguez/Desktop/carpeta sin título/apc-backend/src/main/java/com/apcemedicom/controladores/CategoriaController.java
+/Users/gastonrodriguez/Desktop/carpeta sin título/apc-backend/src/main/java/com/apcemedicom/servicios/AddressesService.java
+/Users/gastonrodriguez/Desktop/carpeta sin título/apc-backend/src/main/java/com/apcemedicom/controladores/DepartmentsController.java
+/Users/gastonrodriguez/Desktop/carpeta sin título/apc-backend/src/main/java/com/apcemedicom/servicios/AlmacenService.java
+/Users/gastonrodriguez/Desktop/carpeta sin título/apc-backend/src/main/java/com/apcemedicom/repositorios/ImagenRepository.java
+/Users/gastonrodriguez/Desktop/carpeta sin título/apc-backend/src/main/java/com/apcemedicom/repositorios/UsuarioRepository.java
+/Users/gastonrodriguez/Desktop/carpeta sin título/apc-backend/src/main/java/com/apcemedicom/servicios/impl/CategoriaServiceImpl.java
+/Users/gastonrodriguez/Desktop/carpeta sin título/apc-backend/src/main/java/com/apcemedicom/servicios/impl/ProveedorServiceImpl.java
+/Users/gastonrodriguez/Desktop/carpeta sin título/apc-backend/src/main/java/com/apcemedicom/modelo/Catalogo.java
+/Users/gastonrodriguez/Desktop/carpeta sin título/apc-backend/src/main/java/com/apcemedicom/servicios/CategoriaService.java
+/Users/gastonrodriguez/Desktop/carpeta sin título/apc-backend/src/main/java/com/apcemedicom/repositorios/SolicitudRepository.java
+/Users/gastonrodriguez/Desktop/carpeta sin título/apc-backend/src/main/java/com/apcemedicom/servicios/DepartmentsService.java
+/Users/gastonrodriguez/Desktop/carpeta sin título/apc-backend/src/main/java/com/apcemedicom/controladores/ProveedorController.java
+/Users/gastonrodriguez/Desktop/carpeta sin título/apc-backend/src/main/java/com/apcemedicom/modelo/Departments.java
+/Users/gastonrodriguez/Desktop/carpeta sin título/apc-backend/src/main/java/com/apcemedicom/repositorios/DistrictsRepository.java
+/Users/gastonrodriguez/Desktop/carpeta sin título/apc-backend/src/main/java/com/apcemedicom/exepciones/UsuarioNotFoundException.java
+/Users/gastonrodriguez/Desktop/carpeta sin título/apc-backend/src/main/java/com/apcemedicom/controladores/ClienteController.java
+/Users/gastonrodriguez/Desktop/carpeta sin título/apc-backend/src/main/java/com/apcemedicom/modelo/Addresses.java
+/Users/gastonrodriguez/Desktop/carpeta sin título/apc-backend/src/main/java/com/apcemedicom/modelo/Orders.java
+/Users/gastonrodriguez/Desktop/carpeta sin título/apc-backend/src/main/java/com/apcemedicom/servicios/EstadoService.java
+/Users/gastonrodriguez/Desktop/carpeta sin título/apc-backend/src/main/java/com/apcemedicom/controladores/InventarioController.java
+/Users/gastonrodriguez/Desktop/carpeta sin título/apc-backend/src/main/java/com/apcemedicom/controladores/OrdersController.java
+/Users/gastonrodriguez/Desktop/carpeta sin título/apc-backend/src/main/java/com/apcemedicom/modelo/OrdersDetails.java
+/Users/gastonrodriguez/Desktop/carpeta sin título/apc-backend/src/main/java/com/apcemedicom/repositorios/AlmacenRepository.java
+/Users/gastonrodriguez/Desktop/carpeta sin título/apc-backend/src/main/java/com/apcemedicom/servicios/impl/ProvincesServiceImpl.java
+/Users/gastonrodriguez/Desktop/carpeta sin título/apc-backend/src/main/java/com/apcemedicom/modelo/Estado.java
+/Users/gastonrodriguez/Desktop/carpeta sin título/apc-backend/src/main/java/com/apcemedicom/modelo/Proveedor.java
+/Users/gastonrodriguez/Desktop/carpeta sin título/apc-backend/src/main/java/com/apcemedicom/modelo/Districts.java
+/Users/gastonrodriguez/Desktop/carpeta sin título/apc-backend/src/main/java/com/apcemedicom/modelo/Rol.java
+/Users/gastonrodriguez/Desktop/carpeta sin título/apc-backend/src/main/java/com/apcemedicom/servicios/impl/DepartmentsServiceImpl.java
+/Users/gastonrodriguez/Desktop/carpeta sin título/apc-backend/src/main/java/com/apcemedicom/servicios/CatalogoService.java
+/Users/gastonrodriguez/Desktop/carpeta sin título/apc-backend/src/main/java/com/apcemedicom/exepciones/UsuarioFounException.java
+/Users/gastonrodriguez/Desktop/carpeta sin título/apc-backend/src/main/java/com/apcemedicom/repositorios/DepartmentsRepository.java
+/Users/gastonrodriguez/Desktop/carpeta sin título/apc-backend/src/main/java/com/apcemedicom/controladores/ServicioController.java
+/Users/gastonrodriguez/Desktop/carpeta sin título/apc-backend/src/main/java/com/apcemedicom/repositorios/ProvincesRepository.java
+/Users/gastonrodriguez/Desktop/carpeta sin título/apc-backend/src/main/java/com/apcemedicom/servicios/impl/ProductoServiceImpl.java
+/Users/gastonrodriguez/Desktop/carpeta sin título/apc-backend/src/main/java/com/apcemedicom/modelo/Inventario.java
+/Users/gastonrodriguez/Desktop/carpeta sin título/apc-backend/src/main/java/com/apcemedicom/modelo/JwtRequest.java

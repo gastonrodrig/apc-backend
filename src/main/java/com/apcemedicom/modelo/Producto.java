@@ -6,6 +6,7 @@ public class Producto {
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     private Long productoId;
+    private String tipo;
     private String nombreProducto;
     private String SKU;
     @Column(columnDefinition = "decimal(10,2)")
@@ -25,6 +26,10 @@ public class Producto {
     public void setProductoId(Long productoId) {
         this.productoId = productoId;
     }
+    public String getTipo() {
+        return tipo;
+    }
+    public void setTipo(String tipo) { this.tipo = tipo; }
     public String getNombreProducto() {
         return nombreProducto;
     }
